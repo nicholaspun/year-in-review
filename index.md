@@ -134,6 +134,13 @@ After finishing the Deep Learning specialization, this one has been quite digest
 I completed the [first course](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (See [certificate](https://www.coursera.org/account/accomplishments/certificate/W4UW5T563DC3)) and am well on my way into the second. 
 The third seems to be unavailable for now, so we'll see when that comes out for me to finish up this specialization.
 
+## Lean 
+
+Went through the [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) (Find me solutions [here](https://github.com/nicholaspun/natural-number-game-solutions)).
+I had been meaning to learn something in the theorem prover/type theory-land for a while, so this is finally a start.
+Currently continuing my journey by going through the [official docs](https://leanprover.github.io/theorem_proving_in_lean/index.html#).
+
+
 ## Computer Networking
 
 Currently on Chapter 4 of [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html).
