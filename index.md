@@ -1,6 +1,6 @@
 **Quick Links**
-
-[2020](#2020)
+- [2020](#2020)
+- [2021](#2021)
 
 # 2020
 
@@ -96,11 +96,6 @@ And since I'm also a CS student, I did actually take some CS courses:
     The course helped to solidify some concepts, and I also learned some more cool concepts such as time-forward processing and buffer trees.
     Check out my certificate for this course [here](https://www.coursera.org/account/accomplishments/certificate/PR2Z7JQ93Z8Y)!
 
-<!-- - [Algorithmic Lower Bounds: Fun with Hardness Proofs (6.890, Fall 2014)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/): In-progess -->
-
-<!-- - [Advanced Data Structures (6.851, Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm): In-progress -->
-
-
 ## Deep Learning
 
 ### Projects
@@ -125,26 +120,60 @@ I successfully completed the entire Deep Learning specialization!
 It was quite the journey, I learned a lot of cool things and got a taste on various different architectures and problems in this field.
 Andrew Ng did a wonderful job of simplifying the content and peeling out the important bits for discussion during the lectures.
 That said, although we covered a huge breadth of material, I think the next goal for me is to delve into a bit more depth on particular topics.
-I'll probably continue expanding my knowledge in this field; I have a couple other courses and textbooks I'll probably give a shot in the upcoming months.
+I'll probably continue expanding my knowledge in this field; I have a couple other courses and textbooks I'll probably give a shot in the near future.
 
 ### [Generative Adversarial Networks (Coursera)](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 
-Lo and behold, Deeplearning.ai has a course for GANs as well.
-After finishing the Deep Learning specialization, this one has been quite digestible so far.
-I completed the [first course](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (See [certificate](https://www.coursera.org/account/accomplishments/certificate/W4UW5T563DC3)) and am well on my way into the second. 
-The third seems to be unavailable for now, so we'll see when that comes out for me to finish up this specialization.
+Successfully [completed](https://coursera.org/share/4011a7d82d06e734d5c46bedf0fba6b9) another one of Deeplearning.ai's specializations.
+This one was pretty digestible after tackling the Deep Learning specialization.
+We went over several state-of-the-art models/architectures, including StyleGANs, Pix2Pix, CycleGANs, etc.
+The lectures were pretty useful in gaining a high-level overview which made going over their respective papers much easier.
+The coding assignments helped to an extent, ultimately it was just filling in portions of their unfinished code, but it was still nice to be able to quickly see a working product.
+I did end up picking up PyTorch as a result of this specialization and enjoy using it alongside Tensorflow.
+(Don't really have a preference yet, Tensorflow makes it a bit easier to create models without having to explicitly care about input/output sizes but PyTorch feels much more pythonic)
+I had a couple project ideas that would require fiddling around with GANs, but may or may not ever get to them.
+Nonetheless, a lot of the techniques used with these models (e.g. pairing up the networks in a cycle, W-Loss, etc.) seem pretty useful outside of the GANs context so I'll definitely be keeping those in mind for the future.
 
 ## Lean 
 
 Went through the [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) (Find me solutions [here](https://github.com/nicholaspun/natural-number-game-solutions)).
 I had been meaning to learn something in the theorem prover/type theory-land for a while, so this is finally a start.
-Currently continuing my journey by going through the [official docs](https://leanprover.github.io/theorem_proving_in_lean/index.html#).
+Overall this was pretty fun and some of the puzzles actually took me a while to solve.
+I want to continue this journey by going through the [official docs](https://leanprover.github.io/theorem_proving_in_lean/index.html#) and maybe dabble in Lean 4.
+Don't have a real goal or direction I'm going to take with this knowledge yet, so we'll see what happens as I continue learning more of this stuff.
+
+## MIT 18.S191 (Introduction to Computational Thinking)
+
+[(Course Link)](https://computationalthinking.mit.edu/Fall20/)
+
+Went through roughly 2/3rds of the course with three goals in mind:
+1. Learn Julia
+2. Learn about epidemic modelling
+3. Learn about raytracing
+
+You can check out the stuff I fiddled around with [here](https://github.com/nicholaspun/MIT18S191).
+The course is pretty cool and I probably would've really enjoyed it as a student.
+I've taken a similar course at UWaterloo (CS370/371) and our assignments were _super_ dry compared to this.
+(Probably comparing apples to oranges here since this course is new and our course is old as heck.)
+
+I had heard about Julia before the course so being able to fiddle around while working through their assignments was super fun. 
+I liked it quite a bit.
+Its expressibility is pretty much the same as Python's but the types make it a lot less of a pain to work with.
+Native support of broadcasting and vector operations is also really nice.
+All this said, I guess I should be expecting this since I'm comparing an actual scientific language to a general-purpose language that was forced into scientific applications.
+One complaint I might have is that Pluto was a bit annoying on Windows, especially since I couldn't stop a cell (More than one time I'd accidentally set an infinite loop off running).But the UI was nice compared to Juypter.
+
+Overall though, getting a nice introduction to Julia, building up the SIR model and a simple raytracer was super educational and I quite enjoyed it all!
 
 
 ## Computer Networking
 
-Currently on Chapter 4 of [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html).
-(Update October 2020: And probably will be for a while ... I've reprioritized the things I want to learn right now, so this sitting in the back-burner for now ...)
+Finished up to chapter 4 of [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html).
+I reprioritized the things I wanted to learn so this sat in the back-burner for most of the year.
 
-_(Last updated Dec. 1st)_
+# 2021
+
+Nothing yet! Happy New Years!
+
+_(Last updated Jan. 1st)_
 
