@@ -173,7 +173,17 @@ I reprioritized the things I wanted to learn so this sat in the back-burner for 
 
 # 2021
 
-Nothing yet! Happy New Years!
+## Readings
+- Graph Theory
+- Numerical Linear Algebra
+- Intro to diff forms
+
+## Miscellaneous
+- [A structure theorem for rooted binary phylogenetic networks and its implications for tree-based networks](https://arxiv.org/abs/1811.05849), supplementary yt vids: https://www.youtube.com/watch?v=GLx18qLn1p8 and https://www.youtube.com/watch?v=y1UfsYTrlXo
+- [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) 
+- [BOB 2021 Chris Penner - Higher Kinded Data Types By Example](https://www.youtube.com/watch?v=sIqZEmnFer8)
+- [Part 1: Merging and patches](https://jneem.github.io/merging/) - 5 part series, partially about pijul, partially a beginner's summary of [A Categorical Theory of Patches](https://arxiv.org/abs/1311.3903) (which I tried to read and quickly got lost)
+- [The Book of Shaders](https://thebookofshaders.com/)
 
 _(Last updated Jan. 1st)_
 
